@@ -1,0 +1,1751 @@
+{
+  "i regret almost everything|keith mcnally": {
+    "source": "openlibrary",
+    "canonicalTitle": "I Regret Almost Everything",
+    "canonicalAuthor": "Keith McNally",
+    "firstPublishYear": 2025,
+    "pages": null,
+    "link": "https://openlibrary.org/works/OL45261787W",
+    "coverUrl": null,
+    "originalLanguages": null,
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19"
+  },
+  "butter|asako yuzuki": {
+    "source": "openlibrary",
+    "canonicalTitle": "Butter",
+    "canonicalAuthor": "Asako Yuzuki",
+    "firstPublishYear": 2017,
+    "pages": 460,
+    "link": "https://openlibrary.org/works/OL19718434W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/14448178-L.jpg",
+    "originalLanguages": [
+      "jpn"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "butter.jpg"
+  },
+  "stalingrad|vasily grossman": {
+    "source": "openlibrary",
+    "canonicalTitle": "Stalingrad",
+    "canonicalAuthor": "Василий Семёнович Гроссман",
+    "firstPublishYear": 2019,
+    "pages": 848,
+    "link": "https://openlibrary.org/works/OL20819341W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/10121463-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 0,
+    "confident": false,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "stalingrad.jpg"
+  },
+  "leviathan falls|james s a corey": {
+    "source": "openlibrary",
+    "canonicalTitle": "Leviathan Falls",
+    "canonicalAuthor": "James S. A. Corey",
+    "firstPublishYear": 2021,
+    "pages": 584,
+    "link": "https://openlibrary.org/works/OL21704818W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/14424717-L.jpg",
+    "originalLanguages": [
+      "eng",
+      "spa"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "leviathan-falls.jpg"
+  },
+  "siddhartha|hermann hesse": {
+    "source": "openlibrary",
+    "canonicalTitle": "Siddhartha",
+    "canonicalAuthor": "Hermann Hesse",
+    "firstPublishYear": 1922,
+    "pages": 140,
+    "link": "https://openlibrary.org/works/OL872932W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/6562535-L.jpg",
+    "originalLanguages": [
+      "chi",
+      "eng",
+      "spa",
+      "ger",
+      "ita",
+      "vie",
+      "fre",
+      "rus",
+      "san",
+      "guj"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "siddhartha.jpg"
+  },
+  "light years|james salter": {
+    "source": "openlibrary",
+    "canonicalTitle": "Light years",
+    "canonicalAuthor": "James Salter",
+    "firstPublishYear": 1975,
+    "pages": 382,
+    "link": "https://openlibrary.org/works/OL2009202W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/420455-L.jpg",
+    "originalLanguages": [
+      "eng",
+      "ger",
+      "spa"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "light-years.jpg"
+  },
+  "project hail mary|andy weir": {
+    "source": "openlibrary",
+    "canonicalTitle": "Project Hail Mary",
+    "canonicalAuthor": "Andy Weir",
+    "firstPublishYear": 2021,
+    "pages": 496,
+    "link": "https://openlibrary.org/works/OL21745884W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/11200092-L.jpg",
+    "originalLanguages": [
+      "por",
+      "dut",
+      "spa",
+      "tur",
+      "ger",
+      "fre",
+      "kor",
+      "eng",
+      "fin"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "project-hail-mary.jpg"
+  },
+  "un verdor terrible|benjamin labatut": {
+    "source": "openlibrary",
+    "canonicalTitle": "Un verdor terrible",
+    "canonicalAuthor": "Benjamín Labatut",
+    "firstPublishYear": 2020,
+    "pages": 224,
+    "link": "https://openlibrary.org/works/OL22681620W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/10485756-L.jpg",
+    "originalLanguages": null,
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "un-verdor-terrible.jpg"
+  },
+  "the hunters|james salter": {
+    "source": "openlibrary",
+    "canonicalTitle": "The hunters",
+    "canonicalAuthor": "James Salter",
+    "firstPublishYear": 1956,
+    "pages": 256,
+    "link": "https://openlibrary.org/works/OL2009206W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/934742-L.jpg",
+    "originalLanguages": [
+      "eng",
+      "spa"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "the-hunters.jpg"
+  },
+  "king rat|james clavell": {
+    "source": "openlibrary",
+    "canonicalTitle": "King Rat",
+    "canonicalAuthor": "James Clavell",
+    "firstPublishYear": 1950,
+    "pages": 391,
+    "link": "https://openlibrary.org/works/OL2918736W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/13268339-L.jpg",
+    "originalLanguages": [
+      "eng",
+      "heb",
+      "fre",
+      "spa"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "king-rat.jpg"
+  },
+  "station eleven|emily st john mandel": {
+    "source": "openlibrary",
+    "canonicalTitle": "Station Eleven",
+    "canonicalAuthor": "Emily St. John Mandel",
+    "firstPublishYear": 2014,
+    "pages": 352,
+    "link": "https://openlibrary.org/works/OL17202418W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/7369961-L.jpg",
+    "originalLanguages": [
+      "eng",
+      "fre"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "station-eleven.jpg"
+  },
+  "fault lines|emily itami": {
+    "source": "openlibrary",
+    "canonicalTitle": "Fault Lines",
+    "canonicalAuthor": "Emily Itami",
+    "firstPublishYear": 2021,
+    "pages": 224,
+    "link": "https://openlibrary.org/works/OL24392858W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/10929641-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "fault-lines.jpg"
+  },
+  "men without women|haruki murakami": {
+    "source": "openlibrary",
+    "canonicalTitle": "Men Without Women",
+    "canonicalAuthor": "村上春樹",
+    "firstPublishYear": 2017,
+    "pages": 240,
+    "link": "https://openlibrary.org/works/OL34944508W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/13768905-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 0,
+    "confident": false,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "men-without-women.jpg"
+  },
+  "the lathe of heaven|ursula le guin": {
+    "source": "openlibrary",
+    "canonicalTitle": "The Lathe of Heaven",
+    "canonicalAuthor": "Ursula K. Le Guin",
+    "firstPublishYear": 1971,
+    "pages": 184,
+    "link": "https://openlibrary.org/works/OL59858W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/26458-L.jpg",
+    "originalLanguages": [
+      "fre",
+      "pol",
+      "chi",
+      "heb",
+      "por",
+      "spa",
+      "tur",
+      "eng",
+      "ita"
+    ],
+    "titleSim": 1,
+    "authorSim": 0.929,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "the-lathe-of-heaven.jpg"
+  },
+  "aura|carlos fuentes": {
+    "source": "openlibrary",
+    "canonicalTitle": "Aura",
+    "canonicalAuthor": "Carlos Fuentes",
+    "firstPublishYear": 1962,
+    "pages": 70,
+    "link": "https://openlibrary.org/works/OL872225W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/4480453-L.jpg",
+    "originalLanguages": [
+      "per",
+      "vie",
+      "slv",
+      "por",
+      "lit",
+      "fin",
+      "mal",
+      "ben",
+      "eng",
+      "srp",
+      "pol",
+      "ara",
+      "swe",
+      "spa",
+      "nor",
+      "ger",
+      "ita",
+      "dut",
+      "arm",
+      "tur"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "aura.jpg"
+  },
+  "las batallas en el desierto|jose emilio pacheco": {
+    "source": "openlibrary",
+    "canonicalTitle": "Las batallas en el desierto",
+    "canonicalAuthor": "José Emilio Pacheco",
+    "firstPublishYear": 1981,
+    "pages": 68,
+    "link": "https://openlibrary.org/works/OL2049251W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/5436924-L.jpg",
+    "originalLanguages": [
+      "spa"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "las-batallas-en-el-desierto.jpg"
+  },
+  "train dreams|denis johnson": {
+    "source": "openlibrary",
+    "canonicalTitle": "Train dreams",
+    "canonicalAuthor": "Denis Johnson",
+    "firstPublishYear": 2006,
+    "pages": 116,
+    "link": "https://openlibrary.org/works/OL15916948W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/7079698-L.jpg",
+    "originalLanguages": [
+      "eng",
+      "por"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "train-dreams.jpg"
+  },
+  "la tumba|jose agustin": {
+    "source": "openlibrary",
+    "canonicalTitle": "La tumba",
+    "canonicalAuthor": "José Agustín",
+    "firstPublishYear": 1966,
+    "pages": 120,
+    "link": "https://openlibrary.org/works/OL3079347W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/5530180-L.jpg",
+    "originalLanguages": [
+      "spa"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "la-tumba.jpg"
+  },
+  "lonesome dove|larry mcmurtry": {
+    "source": "openlibrary",
+    "canonicalTitle": "Lonesome Dove",
+    "canonicalAuthor": "Larry McMurtry",
+    "firstPublishYear": 1985,
+    "pages": 945,
+    "link": "https://openlibrary.org/works/OL134601W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/8376548-L.jpg",
+    "originalLanguages": [
+      "rus",
+      "eng",
+      "spa"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "lonesome-dove.jpg"
+  },
+  "sea of tranquility|emily st john mandel": {
+    "source": "openlibrary",
+    "canonicalTitle": "Sea of Tranquility",
+    "canonicalAuthor": "Emily St. John Mandel",
+    "firstPublishYear": 1999,
+    "pages": 272,
+    "link": "https://openlibrary.org/works/OL24731706W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/11465138-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "sea-of-tranquility.jpg"
+  },
+  "noble house|james clavell": {
+    "source": "openlibrary",
+    "canonicalTitle": "Noble House",
+    "canonicalAuthor": "James Clavell",
+    "firstPublishYear": 1981,
+    "pages": 1174,
+    "link": "https://openlibrary.org/works/OL15649560W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/4364176-L.jpg",
+    "originalLanguages": [
+      "spa",
+      "ger",
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "noble-house.jpg"
+  },
+  "la uruguaya|pedro mairal": {
+    "source": "openlibrary",
+    "canonicalTitle": "La uruguaya",
+    "canonicalAuthor": "Pedro Mairal",
+    "firstPublishYear": 2016,
+    "pages": null,
+    "link": "https://openlibrary.org/works/OL17638682W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/12373836-L.jpg",
+    "originalLanguages": [
+      "spa",
+      "por"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "la-uruguaya.jpg"
+  },
+  "streets of laredo|larry mcmurtry": {
+    "source": "openlibrary",
+    "canonicalTitle": "Streets of Laredo",
+    "canonicalAuthor": "Larry McMurtry",
+    "firstPublishYear": 1993,
+    "pages": 547,
+    "link": "https://openlibrary.org/works/OL16053832W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/6609659-L.jpg",
+    "originalLanguages": [
+      "eng",
+      "rus"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "streets-of-laredo.jpg"
+  },
+  "the boys from brazil|ira levin": {
+    "source": "openlibrary",
+    "canonicalTitle": "The Boys from Brazil",
+    "canonicalAuthor": "Ira Levin",
+    "firstPublishYear": 1637,
+    "pages": 280,
+    "link": "https://openlibrary.org/works/OL28318W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/9159025-L.jpg",
+    "originalLanguages": [
+      "chi",
+      "eng",
+      "dut",
+      "ger",
+      "heb",
+      "spa"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "the-boys-from-brazil.jpg"
+  },
+  "we don't know ourselves|fintan o'toole": {
+    "source": "openlibrary",
+    "canonicalTitle": "We Don't Know Ourselves",
+    "canonicalAuthor": "Fintan O'Toole",
+    "firstPublishYear": 2021,
+    "pages": null,
+    "link": "https://openlibrary.org/works/OL25755945W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/12381733-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "we-don-t-know-ourselves.jpg"
+  },
+  "golf dreams|john updike": {
+    "source": "openlibrary",
+    "canonicalTitle": "Golf Dreams",
+    "canonicalAuthor": "John Updike",
+    "firstPublishYear": 1996,
+    "pages": 224,
+    "link": "https://openlibrary.org/works/OL463822W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/8291312-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "golf-dreams.jpg"
+  },
+  "shantaram|gregory david roberts": {
+    "source": "openlibrary",
+    "canonicalTitle": "Shantaram",
+    "canonicalAuthor": "Gregory David Roberts",
+    "firstPublishYear": 2004,
+    "pages": 940,
+    "link": "https://openlibrary.org/works/OL5730814W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/6788945-L.jpg",
+    "originalLanguages": [
+      "eng",
+      "spa"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "shantaram.jpg"
+  },
+  "tokyo vice|jake adelstein": {
+    "source": "openlibrary",
+    "canonicalTitle": "Tokyo vice",
+    "canonicalAuthor": "Jake Adelstein",
+    "firstPublishYear": 2009,
+    "pages": 335,
+    "link": "https://openlibrary.org/works/OL18554613W",
+    "coverUrl": null,
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19"
+  },
+  "convenience store woman|sayaka murata": {
+    "source": "openlibrary",
+    "canonicalTitle": "Convenience store woman",
+    "canonicalAuthor": "村田沙耶香",
+    "firstPublishYear": 2018,
+    "pages": 163,
+    "link": "https://openlibrary.org/works/OL19744024W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/9315164-L.jpg",
+    "originalLanguages": [
+      "ita",
+      "fre",
+      "cat",
+      "arm",
+      "eng",
+      "tur"
+    ],
+    "titleSim": 1,
+    "authorSim": 0.188,
+    "confident": false,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "convenience-store-woman.jpg"
+  },
+  "the sailor who fell from grace with the sea|yukio mishima": {
+    "source": "openlibrary",
+    "canonicalTitle": "The Sailor Who Fell from Grace with the Sea",
+    "canonicalAuthor": "Yukio) Nathan Mishima",
+    "firstPublishYear": 1990,
+    "pages": null,
+    "link": "https://openlibrary.org/works/OL45262818W",
+    "coverUrl": null,
+    "originalLanguages": null,
+    "titleSim": 1,
+    "authorSim": 0.774,
+    "confident": true,
+    "fetchedAt": "2026-07-19"
+  },
+  "hear the wind sing|haruki murakami": {
+    "source": "openlibrary",
+    "canonicalTitle": "Hear the Wind Sing and Pinball 1973",
+    "canonicalAuthor": "村上春樹",
+    "firstPublishYear": 2015,
+    "pages": 262,
+    "link": "https://openlibrary.org/works/OL35314769W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/14474168-L.jpg",
+    "originalLanguages": null,
+    "titleSim": 0.667,
+    "authorSim": 0,
+    "confident": false,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "hear-the-wind-sing.jpg"
+  },
+  "after the quake|haruki murakami": {
+    "source": "openlibrary",
+    "canonicalTitle": "After the Quake",
+    "canonicalAuthor": "村上春樹",
+    "firstPublishYear": 2003,
+    "pages": null,
+    "link": "https://openlibrary.org/works/OL29341373W",
+    "coverUrl": null,
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 0,
+    "confident": false,
+    "fetchedAt": "2026-07-19"
+  },
+  "the haj|leon uris": {
+    "source": "openlibrary",
+    "canonicalTitle": "The Haj",
+    "canonicalAuthor": "Leon Uris",
+    "firstPublishYear": 1984,
+    "pages": 618,
+    "link": "https://openlibrary.org/works/OL14847872W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/7993430-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "the-haj.jpg"
+  },
+  "poeta chileno|alejandro zambra": {
+    "source": "openlibrary",
+    "canonicalTitle": "Poeta chileno",
+    "canonicalAuthor": "Alejandro Zambra",
+    "firstPublishYear": 2019,
+    "pages": 428,
+    "link": "https://openlibrary.org/works/OL21896301W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/12369638-L.jpg",
+    "originalLanguages": [
+      "por",
+      "spa"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "poeta-chileno.jpg"
+  },
+  "el director|david jimenez": {
+    "source": "openlibrary",
+    "canonicalTitle": "El director",
+    "canonicalAuthor": "David Jiménez",
+    "firstPublishYear": 2019,
+    "pages": 308,
+    "link": "https://openlibrary.org/works/OL23511335W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/10511916-L.jpg",
+    "originalLanguages": [
+      "cat",
+      "spa"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "el-director.jpg"
+  },
+  "stay true|hua hsu": {
+    "source": "openlibrary",
+    "canonicalTitle": "Stay True",
+    "canonicalAuthor": "Hua Hsu",
+    "firstPublishYear": 2022,
+    "pages": 208,
+    "link": "https://openlibrary.org/works/OL27170874W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/13195234-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "stay-true.jpg"
+  },
+  "blood meridian|cormac mccarthy": {
+    "source": "openlibrary",
+    "canonicalTitle": "Blood Meridian",
+    "canonicalAuthor": "Cormac McCarthy",
+    "firstPublishYear": 1985,
+    "pages": 353,
+    "link": "https://openlibrary.org/works/OL40879W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/419991-L.jpg",
+    "originalLanguages": [
+      "fre",
+      "cat",
+      "spa",
+      "eng",
+      "pol",
+      "heb",
+      "chi",
+      "ger"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "blood-meridian.jpg"
+  },
+  "barba ensopada de sangue|daniel galera": {
+    "source": "openlibrary",
+    "canonicalTitle": "Barba Ensopada de Sangue",
+    "canonicalAuthor": "Daniel Galera",
+    "firstPublishYear": 2012,
+    "pages": 416,
+    "link": "https://openlibrary.org/works/OL16800371W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/11419662-L.jpg",
+    "originalLanguages": [
+      "tur",
+      "eng",
+      "por",
+      "spa",
+      "fre"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "barba-ensopada-de-sangue.jpg"
+  },
+  "babel|r f kuang": {
+    "source": "openlibrary",
+    "canonicalTitle": "Babel",
+    "canonicalAuthor": "R. F. Kuang",
+    "firstPublishYear": 2022,
+    "pages": 569,
+    "link": "https://openlibrary.org/works/OL26443093W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/12468631-L.jpg",
+    "originalLanguages": [
+      "dut",
+      "eng",
+      "por"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "babel.jpg"
+  },
+  "the road|cormac mccarthy": {
+    "source": "openlibrary",
+    "canonicalTitle": "The Road",
+    "canonicalAuthor": "Cormac McCarthy",
+    "firstPublishYear": 2006,
+    "pages": 256,
+    "link": "https://openlibrary.org/works/OL40873W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/198120-L.jpg",
+    "originalLanguages": [
+      "pol",
+      "chi",
+      "por",
+      "spa",
+      "ita",
+      "fre",
+      "heb",
+      "eng",
+      "cat"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "the-road.jpg"
+  },
+  "last summer in the city|gianfranco calligarich": {
+    "source": "openlibrary",
+    "canonicalTitle": "Last Summer in the City",
+    "canonicalAuthor": "Gianfranco Calligarich",
+    "firstPublishYear": 2021,
+    "pages": 192,
+    "link": "https://openlibrary.org/works/OL24476143W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/11086481-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "last-summer-in-the-city.jpg"
+  },
+  "eaters of the dead|michael crichton": {
+    "source": "openlibrary",
+    "canonicalTitle": "Eaters of the Dead",
+    "canonicalAuthor": "Michael Crichton",
+    "firstPublishYear": 1976,
+    "pages": 220,
+    "link": "https://openlibrary.org/works/OL46873W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/12640575-L.jpg",
+    "originalLanguages": [
+      "por",
+      "dut",
+      "eng",
+      "chi",
+      "fre",
+      "spa"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "eaters-of-the-dead.jpg"
+  },
+  "all the pretty horses|cormac mccarthy": {
+    "source": "openlibrary",
+    "canonicalTitle": "All the Pretty Horses",
+    "canonicalAuthor": "Cormac McCarthy",
+    "firstPublishYear": 1992,
+    "pages": 306,
+    "link": "https://openlibrary.org/works/OL40882W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/9296904-L.jpg",
+    "originalLanguages": [
+      "eng",
+      "glg",
+      "ger",
+      "fre",
+      "heb",
+      "spa",
+      "cat",
+      "rus"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "all-the-pretty-horses.jpg"
+  },
+  "exciting times|naoise dolan": {
+    "source": "openlibrary",
+    "canonicalTitle": "Exciting Times",
+    "canonicalAuthor": "Naoise Dolan",
+    "firstPublishYear": 2020,
+    "pages": 248,
+    "link": "https://openlibrary.org/works/OL20758544W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/10317917-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "exciting-times.jpg"
+  },
+  "killers of the flower moon|david grann": {
+    "source": "openlibrary",
+    "canonicalTitle": "Killers of the Flower Moon",
+    "canonicalAuthor": "David Grann",
+    "firstPublishYear": 2017,
+    "pages": 350,
+    "link": "https://openlibrary.org/works/OL17778665W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/8055064-L.jpg",
+    "originalLanguages": [
+      "eng",
+      "spa"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "killers-of-the-flower-moon.jpg"
+  },
+  "trust|hernan diaz": {
+    "source": "openlibrary",
+    "canonicalTitle": "Trust",
+    "canonicalAuthor": "Hernán Díaz",
+    "firstPublishYear": 2022,
+    "pages": 416,
+    "link": "https://openlibrary.org/works/OL25916696W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/12742248-L.jpg",
+    "originalLanguages": [
+      "pol",
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "trust.jpg"
+  },
+  "a sport and a pastime|james salter": {
+    "source": "openlibrary",
+    "canonicalTitle": "A sport and a pastime",
+    "canonicalAuthor": "James Salter",
+    "firstPublishYear": 1967,
+    "pages": 208,
+    "link": "https://openlibrary.org/works/OL2009183W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/3216808-L.jpg",
+    "originalLanguages": [
+      "ger",
+      "eng",
+      "spa",
+      "fre"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "a-sport-and-a-pastime.jpg"
+  },
+  "the crossing|cormac mccarthy": {
+    "source": "openlibrary",
+    "canonicalTitle": "The Crossing",
+    "canonicalAuthor": "Cormac McCarthy",
+    "firstPublishYear": 1994,
+    "pages": 432,
+    "link": "https://openlibrary.org/works/OL40883W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/6999576-L.jpg",
+    "originalLanguages": [
+      "dut",
+      "spa",
+      "eng",
+      "rus",
+      "ger"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "the-crossing.jpg"
+  },
+  "whirlwind|james clavell": {
+    "source": "openlibrary",
+    "canonicalTitle": "Whirlwind",
+    "canonicalAuthor": "James Clavell",
+    "firstPublishYear": 1987,
+    "pages": 1,
+    "link": "https://openlibrary.org/works/OL33838618W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/13762611-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "whirlwind.jpg"
+  },
+  "the maniac|benjamin labatut": {
+    "source": "openlibrary",
+    "canonicalTitle": "The maniac",
+    "canonicalAuthor": "Benjamín Labatut",
+    "firstPublishYear": 2023,
+    "pages": 361,
+    "link": "https://openlibrary.org/works/OL34388805W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/14036185-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "the-maniac.jpg"
+  },
+  "phil|alan shipnuck": {
+    "source": "openlibrary",
+    "canonicalTitle": "Phil",
+    "canonicalAuthor": "Alan Shipnuck",
+    "firstPublishYear": 2022,
+    "pages": 137,
+    "link": "https://openlibrary.org/works/OL26663475W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/13864879-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "phil.jpg"
+  },
+  "the mercy of gods|james s a corey": {
+    "source": "openlibrary",
+    "canonicalTitle": "The Mercy of Gods",
+    "canonicalAuthor": "James S. A. Corey",
+    "firstPublishYear": 2024,
+    "pages": 496,
+    "link": "https://openlibrary.org/works/OL37579227W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/14649358-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "the-mercy-of-gods.jpg"
+  },
+  "acceptance|jeff vandermeer": {
+    "source": "openlibrary",
+    "canonicalTitle": "Acceptance",
+    "canonicalAuthor": "Jeff VanderMeer",
+    "firstPublishYear": 2014,
+    "pages": 352,
+    "link": "https://openlibrary.org/works/OL19330481W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/8441678-L.jpg",
+    "originalLanguages": [
+      "rum",
+      "fre",
+      "por",
+      "tur",
+      "eng",
+      "ita"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "acceptance.jpg"
+  },
+  "annihilation|jeff vandermeer": {
+    "source": "openlibrary",
+    "canonicalTitle": "Annihilation",
+    "canonicalAuthor": "Jeff VanderMeer",
+    "firstPublishYear": 2014,
+    "pages": 208,
+    "link": "https://openlibrary.org/works/OL17268007W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/8408974-L.jpg",
+    "originalLanguages": [
+      "eng",
+      "por",
+      "rum",
+      "ita",
+      "fre",
+      "spa"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "annihilation.jpg"
+  },
+  "absolution|jeff vandermeer": {
+    "source": "openlibrary",
+    "canonicalTitle": "Absolution",
+    "canonicalAuthor": "Jeff VanderMeer",
+    "firstPublishYear": 2024,
+    "pages": 480,
+    "link": "https://openlibrary.org/works/OL38119014W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/15174269-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "absolution.jpg"
+  },
+  "authority|jeff vandermeer": {
+    "source": "openlibrary",
+    "canonicalTitle": "Authority",
+    "canonicalAuthor": "Jeff VanderMeer",
+    "firstPublishYear": 2014,
+    "pages": 352,
+    "link": "https://openlibrary.org/works/OL17453058W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/10526739-L.jpg",
+    "originalLanguages": [
+      "eng",
+      "por",
+      "dut",
+      "tur",
+      "ger",
+      "ita",
+      "pol"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "authority.jpg"
+  },
+  "my struggle|karl ove knausgaard": {
+    "source": "openlibrary",
+    "canonicalTitle": "My Struggle",
+    "canonicalAuthor": "Karl Ove Knausgård",
+    "firstPublishYear": 2013,
+    "pages": null,
+    "link": "https://openlibrary.org/works/OL26550302W",
+    "coverUrl": null,
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 0.971,
+    "confident": true,
+    "fetchedAt": "2026-07-19"
+  },
+  "i am legend|richard matheson": {
+    "source": "openlibrary",
+    "canonicalTitle": "I am Legend",
+    "canonicalAuthor": "Richard Matheson",
+    "firstPublishYear": 1954,
+    "pages": 192,
+    "link": "https://openlibrary.org/works/OL11374287W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/911109-L.jpg",
+    "originalLanguages": [
+      "heb",
+      "ita",
+      "spa",
+      "fre",
+      "eng",
+      "rus"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "i-am-legend.jpg"
+  },
+  "cities of the plain|cormac mccarthy": {
+    "source": "openlibrary",
+    "canonicalTitle": "Cities of the Plain",
+    "canonicalAuthor": "Cormac McCarthy",
+    "firstPublishYear": 1998,
+    "pages": 294,
+    "link": "https://openlibrary.org/works/OL40869W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/9158767-L.jpg",
+    "originalLanguages": [
+      "spa",
+      "eng",
+      "ita",
+      "ger"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "cities-of-the-plain.jpg"
+  },
+  "corazon tan blanco|javier marias": {
+    "source": "openlibrary",
+    "canonicalTitle": "Corazón tan blanco",
+    "canonicalAuthor": "Javier Marías",
+    "firstPublishYear": 1992,
+    "pages": 314,
+    "link": "https://openlibrary.org/works/OL953028W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/1046691-L.jpg",
+    "originalLanguages": [
+      "eng",
+      "spa",
+      "ger",
+      "fre"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "corazon-tan-blanco.jpg"
+  },
+  "rimbaud|graham robb": {
+    "source": "openlibrary",
+    "canonicalTitle": "Rimbaud",
+    "canonicalAuthor": "Graham Robb",
+    "firstPublishYear": 2000,
+    "pages": 551,
+    "link": "https://openlibrary.org/works/OL2153948W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/247572-L.jpg",
+    "originalLanguages": [
+      "eng",
+      "spa"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "rimbaud.jpg"
+  },
+  "the vegetarian|han kang": {
+    "source": "openlibrary",
+    "canonicalTitle": "Vegetariana / the Vegetarian",
+    "canonicalAuthor": "Han Kang",
+    "firstPublishYear": 2016,
+    "pages": 168,
+    "link": "https://openlibrary.org/works/OL38656067W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/15182525-L.jpg",
+    "originalLanguages": [
+      "spa"
+    ],
+    "titleSim": 0.684,
+    "authorSim": 1,
+    "confident": false,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "the-vegetarian.jpg"
+  },
+  "a paixao segundo g h|clarice lispector": {
+    "source": "openlibrary",
+    "canonicalTitle": "A paixão segundo G.H.",
+    "canonicalAuthor": "Clarice Lispector",
+    "firstPublishYear": 1964,
+    "pages": 196,
+    "link": "https://openlibrary.org/works/OL1002138W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/4141933-L.jpg",
+    "originalLanguages": [
+      "eng",
+      "spa",
+      "cat",
+      "por"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "a-paixao-segundo-g-h.jpg"
+  },
+  "annihilation|michel houellebecq": {
+    "source": "openlibrary",
+    "canonicalTitle": "Annihilation",
+    "canonicalAuthor": "Michel Houellebecq",
+    "firstPublishYear": 2024,
+    "pages": 544,
+    "link": "https://openlibrary.org/works/OL37832967W",
+    "coverUrl": null,
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19"
+  },
+  "confessions of a mask|yukio mishima": {
+    "source": "openlibrary",
+    "canonicalTitle": "Confessions of a Mask",
+    "canonicalAuthor": "三島由紀夫",
+    "firstPublishYear": 1958,
+    "pages": 254,
+    "link": "https://openlibrary.org/works/OL1845165W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/597870-L.jpg",
+    "originalLanguages": [
+      "hrv",
+      "eng",
+      "jpn"
+    ],
+    "titleSim": 1,
+    "authorSim": 0,
+    "confident": false,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "confessions-of-a-mask.jpg"
+  },
+  "careless people|sarah wynn williams": {
+    "source": "openlibrary",
+    "canonicalTitle": "Careless People",
+    "canonicalAuthor": "Sarah Wynn-Williams",
+    "firstPublishYear": 2025,
+    "pages": 394,
+    "link": "https://openlibrary.org/works/OL42735465W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/14852090-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "careless-people.jpg"
+  },
+  "when the going was good|graydon carter": {
+    "source": "openlibrary",
+    "canonicalTitle": "When the Going Was Good",
+    "canonicalAuthor": "Graydon Carter",
+    "firstPublishYear": 2025,
+    "pages": 432,
+    "link": "https://openlibrary.org/works/OL42403663W",
+    "coverUrl": null,
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19"
+  },
+  "berta isla|javier marias": {
+    "source": "openlibrary",
+    "canonicalTitle": "Berta Isla",
+    "canonicalAuthor": "Javier Marías",
+    "firstPublishYear": 2017,
+    "pages": 544,
+    "link": "https://openlibrary.org/works/OL17784553W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/8065248-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "berta-isla.jpg"
+  },
+  "aztec|gary jennings": {
+    "source": "openlibrary",
+    "canonicalTitle": "Aztec",
+    "canonicalAuthor": "Gary Jennings",
+    "firstPublishYear": 1980,
+    "pages": 754,
+    "link": "https://openlibrary.org/works/OL2632395W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/524777-L.jpg",
+    "originalLanguages": [
+      "spa",
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "aztec.jpg"
+  },
+  "borne|jeff vandermeer": {
+    "source": "openlibrary",
+    "canonicalTitle": "Borne",
+    "canonicalAuthor": "Jeff VanderMeer",
+    "firstPublishYear": 2017,
+    "pages": 330,
+    "link": "https://openlibrary.org/works/OL17762236W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/8044631-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "borne.jpg"
+  },
+  "the children of men|p d james": {
+    "source": "openlibrary",
+    "canonicalTitle": "the children of men",
+    "canonicalAuthor": "p.d. james",
+    "firstPublishYear": 1992,
+    "pages": 258,
+    "link": "https://openlibrary.org/works/OL43138856W",
+    "coverUrl": null,
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19"
+  },
+  "the map and the territory|michel houellebecq": {
+    "source": "openlibrary",
+    "canonicalTitle": "Map and the Territory",
+    "canonicalAuthor": "Michel Houellebecq",
+    "firstPublishYear": 2011,
+    "pages": 291,
+    "link": "https://openlibrary.org/works/OL29371348W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/13352120-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 0.909,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "the-map-and-the-territory.jpg"
+  },
+  "assassin's apprentice|robin hobb": {
+    "source": "openlibrary",
+    "canonicalTitle": "Assassin's Apprentice",
+    "canonicalAuthor": "Robin Hobb",
+    "firstPublishYear": 1995,
+    "pages": 400,
+    "link": "https://openlibrary.org/works/OL2707183W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/4915230-L.jpg",
+    "originalLanguages": [
+      "eng",
+      "spa",
+      "rus",
+      "und",
+      "por",
+      "chi"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "assassin-s-apprentice.jpg"
+  },
+  "royal assassin|robin hobb": {
+    "source": "openlibrary",
+    "canonicalTitle": "L'Assassin royal, tome 3",
+    "canonicalAuthor": "Robin Hobb",
+    "firstPublishYear": 2001,
+    "pages": 455,
+    "link": "https://openlibrary.org/works/OL2707201W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/2177291-L.jpg",
+    "originalLanguages": [
+      "fre"
+    ],
+    "titleSim": 0.743,
+    "authorSim": 1,
+    "confident": false,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "royal-assassin.jpg"
+  },
+  "assassin's quest|robin hobb": {
+    "source": "openlibrary",
+    "canonicalTitle": "Assassin's Quest",
+    "canonicalAuthor": "Robin Hobb",
+    "firstPublishYear": 1997,
+    "pages": 757,
+    "link": "https://openlibrary.org/works/OL2707231W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/368112-L.jpg",
+    "originalLanguages": [
+      "eng",
+      "cmn"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "assassin-s-quest.jpg"
+  },
+  "ship of magic|robin hobb": {
+    "source": "openlibrary",
+    "canonicalTitle": "Ship of Magic",
+    "canonicalAuthor": "Robin Hobb",
+    "firstPublishYear": 1998,
+    "pages": 699,
+    "link": "https://openlibrary.org/works/OL2707209W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/372583-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "ship-of-magic.jpg"
+  },
+  "ship of destiny|robin hobb": {
+    "source": "openlibrary",
+    "canonicalTitle": "Ship of Destiny",
+    "canonicalAuthor": "Robin Hobb",
+    "firstPublishYear": 2000,
+    "pages": 683,
+    "link": "https://openlibrary.org/works/OL2707208W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/8314580-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "ship-of-destiny.jpg"
+  },
+  "malena es un nombre de tango|almudena grandes": {
+    "source": "openlibrary",
+    "canonicalTitle": "Malena es un nombre de tango",
+    "canonicalAuthor": "Almudena Grandes",
+    "firstPublishYear": 1994,
+    "pages": 552,
+    "link": "https://openlibrary.org/works/OL2454408W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/4911913-L.jpg",
+    "originalLanguages": [
+      "spa",
+      "ger"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "malena-es-un-nombre-de-tango.jpg"
+  },
+  "the faith of beasts|james s corey": {
+    "source": "openlibrary",
+    "canonicalTitle": "The Faith of Beasts",
+    "canonicalAuthor": "James S. A. Corey",
+    "firstPublishYear": 2026,
+    "pages": 442,
+    "link": "https://openlibrary.org/works/OL44660265W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/15213189-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 0.923,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "the-faith-of-beasts.jpg"
+  },
+  "the amur river between russia and china|colin thubron": {
+    "source": "openlibrary",
+    "canonicalTitle": "The Amur River",
+    "canonicalAuthor": "Colin Thubron",
+    "firstPublishYear": 2021,
+    "pages": null,
+    "link": "https://openlibrary.org/works/OL44198074W",
+    "coverUrl": null,
+    "originalLanguages": null,
+    "titleSim": 0.51,
+    "authorSim": 1,
+    "confident": false,
+    "fetchedAt": "2026-07-19"
+  },
+  "tokyo ueno station|miri yu": {
+    "source": "openlibrary",
+    "canonicalTitle": "JR上野駅公園口",
+    "canonicalAuthor": "柳美里",
+    "firstPublishYear": 2014,
+    "pages": 173,
+    "link": "https://openlibrary.org/works/OL21177270W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/10332412-L.jpg",
+    "originalLanguages": [
+      "dan",
+      "eng",
+      "jpn",
+      "est",
+      "dut",
+      "fre",
+      "rus",
+      "per",
+      "tha",
+      "fin",
+      "spa",
+      "pol",
+      "cat",
+      "kor",
+      "swe",
+      "ita",
+      "rum",
+      "tur",
+      "por"
+    ],
+    "titleSim": 0,
+    "authorSim": 0,
+    "confident": false,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "tokyo-ueno-station.jpg"
+  },
+  "tower of babylon|ted chiang": {
+    "source": "openlibrary",
+    "canonicalTitle": "Stories of Your Life and Others",
+    "canonicalAuthor": "Ted Chiang",
+    "firstPublishYear": 2002,
+    "pages": 317,
+    "link": "https://openlibrary.org/works/OL6216050W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/524046-L.jpg",
+    "originalLanguages": [
+      "chi",
+      "fre",
+      "eng",
+      "jpn",
+      "tur",
+      "ita",
+      "kor"
+    ],
+    "titleSim": 0.267,
+    "authorSim": 1,
+    "confident": false,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "tower-of-babylon.jpg"
+  },
+  "whatever|michel houellebecq": {
+    "source": "openlibrary",
+    "canonicalTitle": "Extension du domaine de la lutte",
+    "canonicalAuthor": "Michel Houellebecq",
+    "firstPublishYear": 1994,
+    "pages": 169,
+    "link": "https://openlibrary.org/works/OL2286728W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/981762-L.jpg",
+    "originalLanguages": [
+      "spa",
+      "pol",
+      "fre",
+      "cat",
+      "rus",
+      "eng",
+      "ger"
+    ],
+    "titleSim": 0.053,
+    "authorSim": 1,
+    "confident": false,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "whatever.jpg"
+  },
+  "the stronghold|dino buzzati": {
+    "source": "openlibrary",
+    "canonicalTitle": "Stronghold",
+    "canonicalAuthor": "Dino Buzzati",
+    "firstPublishYear": 2023,
+    "pages": null,
+    "link": "https://openlibrary.org/works/OL28443525W",
+    "coverUrl": null,
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 0.818,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19"
+  },
+  "the country under heaven|frederic s durbin": {
+    "source": "openlibrary",
+    "canonicalTitle": "Country under Heaven",
+    "canonicalAuthor": "Frederic S. Durbin",
+    "firstPublishYear": 2025,
+    "pages": 336,
+    "link": "https://openlibrary.org/works/OL42426006W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/15088922-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 0.905,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "the-country-under-heaven.jpg"
+  },
+  "the elementary particles|michel houellebecq": {
+    "source": "openlibrary",
+    "canonicalTitle": "Les particules élémentaires",
+    "canonicalAuthor": "Michel Houellebecq",
+    "firstPublishYear": 1998,
+    "pages": 320,
+    "link": "https://openlibrary.org/works/OL2286729W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/970997-L.jpg",
+    "originalLanguages": [
+      "cat",
+      "pol",
+      "fre",
+      "eng",
+      "ger",
+      "ita",
+      "spa",
+      "dut"
+    ],
+    "titleSim": 0.653,
+    "authorSim": 1,
+    "confident": false,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "the-elementary-particles.jpg"
+  },
+  "on the calculation of volume book 1|solvej balle": {
+    "source": "openlibrary",
+    "canonicalTitle": "Om udregning af rumfang I",
+    "canonicalAuthor": "Solvej Balle",
+    "firstPublishYear": 2023,
+    "pages": 170,
+    "link": "https://openlibrary.org/works/OL36995986W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/15147897-L.jpg",
+    "originalLanguages": [
+      "spa",
+      "eng",
+      "swe"
+    ],
+    "titleSim": 0.069,
+    "authorSim": 1,
+    "confident": false,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "on-the-calculation-of-volume-book-1.jpg"
+  },
+  "on the calculation of volume book 2|solvej balle": {
+    "source": "openlibrary",
+    "canonicalTitle": "Om udregning af rumfang II",
+    "canonicalAuthor": "Solvej Balle",
+    "firstPublishYear": 2023,
+    "pages": 176,
+    "link": "https://openlibrary.org/works/OL37624803W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/15087494-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 0.068,
+    "authorSim": 1,
+    "confident": false,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "on-the-calculation-of-volume-book-2.jpg"
+  },
+  "the mad ship|robin hobb": {
+    "source": "openlibrary",
+    "canonicalTitle": "Mad Ship",
+    "canonicalAuthor": "Robin Hobb",
+    "firstPublishYear": 1999,
+    "pages": 769,
+    "link": "https://openlibrary.org/works/OL2707221W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/368046-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 0.778,
+    "authorSim": 1,
+    "confident": false,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "the-mad-ship.jpg"
+  },
+  "the end of august|yu miri": {
+    "source": "openlibrary",
+    "canonicalTitle": "The End of August",
+    "canonicalAuthor": "Robert A. Frey",
+    "firstPublishYear": 2007,
+    "pages": 304,
+    "link": "https://openlibrary.org/works/OL8714362W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/1842835-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 0,
+    "confident": false,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "the-end-of-august.jpg"
+  },
+  "senor director|mirko macari": {
+    "source": null,
+    "confident": false,
+    "note": "no usable Open Library/Google Books record; Sheet link used instead",
+    "fetchedAt": "2026-07-19"
+  },
+  "flesh|david sazalay": {
+    "source": "openlibrary",
+    "canonicalTitle": "Flesh",
+    "canonicalAuthor": "David Szalay",
+    "firstPublishYear": 2025,
+    "pages": 368,
+    "link": "https://openlibrary.org/works/OL42406155W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/15180002-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "flesh.jpg"
+  },
+  "turbulence|david sazalay": {
+    "source": "openlibrary",
+    "canonicalTitle": "Turbulence",
+    "canonicalAuthor": "David Szalay",
+    "firstPublishYear": 2018,
+    "pages": 152,
+    "link": "https://openlibrary.org/works/OL20559431W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/9201465-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-19",
+    "coverFile": "turbulence.jpg"
+  },
+  "on the calculation of volume book 3|solvej balle": {
+    "source": null,
+    "confident": false,
+    "fetchedAt": "2026-07-19"
+  }
+}

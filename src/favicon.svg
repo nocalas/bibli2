@@ -1,0 +1,9 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Biblioteca de Nicholas stamp">
+  <rect width="120" height="120" fill="#E9DFC9"/>
+  <g transform="rotate(-11 60 60)">
+    <circle cx="60" cy="60" r="55" fill="none" stroke="#3A4E9C" stroke-width="4"/>
+    <circle cx="60" cy="60" r="40" fill="none" stroke="#3A4E9C" stroke-width="2"/>
+    <text x="60" y="52" text-anchor="middle" style="font-family:'Special Elite','Courier New',monospace;font-size:13px;fill:#3A4E9C;">&#10022; EST &#10022;</text>
+    <text x="60" y="76" text-anchor="middle" style="font-family:'Special Elite','Courier New',monospace;font-size:22px;fill:#3A4E9C;">2022</text>
+  </g>
+</svg>

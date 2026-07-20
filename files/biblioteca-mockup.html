@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>La Biblioteca de Nicholas — mockup</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Special+Elite&family=Courier+Prime:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #E9DFC9;
+    --card: #F6EFDE;
+    --card-open: #FAF4E4;
+    --card-border: #C6B893;
+    --tab: #DCCFA8;
+    --tab-border: #B3A275;
+    --ink: #2A2519;
+    --ink-soft: #6B6151;
+    --rule-red: #A83A28;
+    --stamp-red: #8A3B2A;
+    --stamp-blue: #3A4E9C;
+    --stamp-green: #35502F;
+    --hold: #DEE6EA;
+    --hold-border: #A8B8C2;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'Courier Prime', 'Courier New', monospace;
+    font-size: 15px;
+    line-height: 1.5;
+  }
+  .col { max-width: 580px; margin: 0 auto; padding: 48px 20px 64px; }
+
+  /* Masthead */
+  .masthead { text-align: center; margin-bottom: 8px; }
+  .masthead h1 {
+    font-family: 'Special Elite', 'Courier New', monospace;
+    font-weight: 400;
+    font-size: 30px;
+    letter-spacing: 2px;
+    margin: 0 0 2px;
+  }
+  .tagline { color: var(--ink-soft); font-size: 13px; margin: 0; }
+  .masthead-rule {
+    border: none; border-top: 2px solid var(--ink);
+    position: relative; margin: 18px auto 4px; max-width: 320px;
+  }
+  .masthead-rule::after {
+    content: ""; display: block; border-top: 1px solid var(--ink); margin-top: 3px;
+  }
+  .inventory {
+    text-align: center; font-size: 12px; color: var(--ink-soft);
+    letter-spacing: 1px; margin: 10px 0 46px;
+  }
+
+  /* Section labels */
+  .section-label {
+    font-family: 'Special Elite', monospace;
+    font-size: 14px; letter-spacing: 4px; text-align: center;
+    margin: 52px 0 20px; color: var(--ink);
+  }
+  .section-label::before, .section-label::after { content: " — "; color: var(--rule-red); }
+
+  /* Card anatomy */
+  .catalog-card {
+    background: var(--card);
+    border: 1px solid var(--card-border);
+    border-radius: 6px;
+    position: relative;
+    padding: 20px 24px 34px;
+  }
+  .hole {
+    width: 16px; height: 16px; border-radius: 50%;
+    background: var(--paper); border: 1px solid var(--card-border);
+    position: absolute; bottom: 10px; left: 50%; margin-left: -8px;
+  }
+  .red-rule { border-bottom: 2px solid var(--rule-red); margin: 12px 0 10px; }
+  .card-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
+  .acc-no { font-size: 12px; color: var(--ink-soft); white-space: nowrap; }
+  .entry { padding-left: 24px; line-height: 1.6; margin-top: 4px; }
+  .meta { padding-left: 24px; font-size: 12px; color: var(--ink-soft); margin-top: 10px; }
+  .stamp-pill {
+    display: inline-block; font-size: 11px; letter-spacing: 2px;
+    border: 1.5px solid currentColor; border-radius: 2px;
+    padding: 2px 8px; transform: rotate(-2deg);
+  }
+
+  /* Now Reading */
+  .lead-wrap { position: relative; }
+  .lead-flex { display: flex; gap: 22px; align-items: flex-start; }
+  .cover-img {
+    width: 108px; min-width: 108px; height: 158px;
+    object-fit: cover; border: 1px solid var(--card-border); border-radius: 2px;
+  }
+  .cover {
+    width: 108px; min-width: 108px; height: 158px;
+    background: #7A2E2E; border-radius: 2px; border: 1px solid var(--card-border);
+    display: flex; flex-direction: column; justify-content: center;
+    text-align: center; padding: 12px; color: #EFE2D0;
+  }
+  .cover .ct { font-size: 12px; font-style: italic; line-height: 1.4; }
+  .cover .ca { font-size: 10px; letter-spacing: 1px; margin-top: 8px; color: #D9B48A; }
+  .round-stamp {
+    position: absolute; top: 40px; right: 14px;
+    width: 116px; height: 116px; transform: rotate(-11deg);
+    opacity: 0.82; pointer-events: none;
+  }
+  @media (max-width: 480px) {
+    .lead-flex { flex-direction: column; }
+    .round-stamp { top: auto; bottom: 34px; }
+  }
+
+  /* Next Up */
+  .hold-grid { display: grid; gap: 10px; }
+  .hold-card {
+    background: var(--hold); border: 1px solid var(--hold-border);
+    border-radius: 5px; padding: 12px 16px; position: relative;
+  }
+  .hold-card:nth-child(odd) { transform: rotate(-0.4deg); }
+  .hold-card:nth-child(even) { transform: rotate(0.4deg); }
+  .hold-slip {
+    position: absolute; top: 10px; right: 12px;
+    font-size: 10px; letter-spacing: 2px; color: var(--stamp-blue);
+    border: 1.5px solid var(--stamp-blue); border-radius: 2px;
+    padding: 1px 7px; transform: rotate(2deg);
+  }
+  .hold-card .who { font-size: 14px; }
+  .hold-card .what { font-size: 13px; color: var(--ink-soft); }
+
+  /* History drawer */
+  .year-block { margin-bottom: 26px; }
+  .year-tab-row { position: relative; margin-bottom: 10px; cursor: pointer; user-select: none; }
+  .year-caret { color: var(--rule-red); margin-right: 8px; }
+  .year-list.closed { display: none; }
+  .year-tab {
+    display: inline-block; background: var(--tab);
+    border: 1px solid var(--tab-border); border-bottom: none;
+    border-radius: 5px 5px 0 0; padding: 4px 16px 3px;
+    font-family: 'Special Elite', monospace;
+    font-size: 13px; letter-spacing: 2px; color: #4A4028; margin-left: 14px;
+  }
+  .year-bar {
+    background: var(--tab); border: 1px solid var(--tab-border);
+    border-radius: 0 6px 6px 6px; height: 12px;
+  }
+  .edge {
+    background: var(--card); border: 1px solid var(--card-border);
+    border-radius: 4px; padding: 8px 16px; font-size: 13px;
+    margin-bottom: 4px; cursor: pointer; display: flex; gap: 8px;
+    align-items: baseline; transition: transform .12s ease;
+  }
+  .edge:hover { transform: translateX(6px) !important; }
+  .edge .who { white-space: nowrap; }
+  .edge .what { color: var(--ink-soft); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; flex: 1; }
+  .edge .lang { font-size: 10px; letter-spacing: 1px; color: var(--ink-soft); border: 1px solid var(--card-border); border-radius: 2px; padding: 0 5px; }
+  .edge:nth-child(odd) { transform: rotate(-0.3deg); }
+  .edge:nth-child(even) { transform: rotate(0.35deg); }
+
+  .pulled {
+    background: var(--card-open); border: 1.5px solid #A89468;
+    border-radius: 6px; margin: 8px 0; padding: 16px 20px 28px;
+    position: relative; transform: rotate(-0.5deg); cursor: pointer;
+  }
+  .read-stamp {
+    margin-left: 20px; margin-top: 10px; color: var(--stamp-green);
+    transform: rotate(-1.5deg);
+  }
+
+  /* Footer */
+  footer {
+    margin-top: 64px; text-align: center; font-size: 12px;
+    color: var(--ink-soft); line-height: 1.7;
+  }
+  footer a { color: var(--stamp-blue); }
+  .foot-rule { border: none; border-top: 1px solid var(--card-border); max-width: 200px; margin: 0 auto 18px; }
+</style>
+</head>
+<body>
+<div class="col">
+
+  <header class="masthead">
+    <h1>La Biblioteca de Nicholas</h1>
+    <p class="tagline">What I read, have read and will read.</p>
+    <hr class="masthead-rule">
+    <p class="inventory">89 CARDS FILED · EN 76 / ES 11 / PT 2 · SINCE 2022</p>
+  </header>
+
+  <div class="section-label">NOW READING</div>
+  <div class="lead-wrap">
+    <div class="catalog-card">
+      <div class="lead-flex">
+        <img class="cover-img" src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668017647/i-regret-almost-everything-9781668017647_lg.jpg" alt="Cover of I Regret Almost Everything" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+        <div class="cover" style="display:none;">
+          <div class="ct">I Regret Almost Everything</div>
+          <div class="ca">McNALLY</div>
+        </div>
+        <div style="flex:1;">
+          <div class="card-head">
+            <span class="stamp-pill" style="color: var(--stamp-red);">NOW READING</span>
+            <span class="acc-no">&#8470; 2026-12</span>
+          </div>
+          <div class="red-rule"></div>
+          <div style="font-size:15px;">McNALLY, Keith.</div>
+          <div class="entry">I regret almost everything. — New York : Gallery Books, 2025. — memoir.</div>
+          <div class="meta">language: EN · started: Jul 2026</div>
+        </div>
+      </div>
+      <div class="round-stamp">
+        <svg viewBox="0 0 120 120" width="116" height="116" role="img" aria-label="Biblioteca de Nicholas stamp">
+          <circle cx="60" cy="60" r="57" fill="none" stroke="#3A4E9C" stroke-width="2.5"/>
+          <circle cx="60" cy="60" r="42" fill="none" stroke="#3A4E9C" stroke-width="1.2"/>
+          <defs>
+            <path id="arcTop" d="M 11,60 A 49,49 0 0 1 109,60"/>
+            <path id="arcBot" d="M 8,60 A 52,52 0 0 0 112,60"/>
+          </defs>
+          <text style="font-family:'Special Elite',monospace;font-size:10px;letter-spacing:2px;fill:#3A4E9C;"><textPath href="#arcTop" startOffset="50%" text-anchor="middle">BIBLIOTECA DE NICHOLAS</textPath></text>
+          <text style="font-family:'Special Elite',monospace;font-size:9px;letter-spacing:2.5px;fill:#3A4E9C;"><textPath href="#arcBot" startOffset="50%" text-anchor="middle">SANTIAGO DE CHILE</textPath></text>
+          <text x="60" y="55" text-anchor="middle" style="font-family:'Special Elite',monospace;font-size:9px;fill:#3A4E9C;">&#10022; EST &#10022;</text>
+          <text x="60" y="71" text-anchor="middle" style="font-family:'Special Elite',monospace;font-size:13px;fill:#3A4E9C;">2022</text>
+        </svg>
+      </div>
+      <div class="hole"></div>
+    </div>
+  </div>
+
+  <div class="section-label">NEXT UP</div>
+  <div class="hold-grid">
+    <div class="hold-card">
+      <span class="hold-slip">ON HOLD</span>
+      <div class="who">YU, Miri.</div>
+      <div class="what">The End of August</div>
+    </div>
+    <div class="hold-card">
+      <span class="hold-slip">ON HOLD</span>
+      <div class="who">YUZUKI, Asako.</div>
+      <div class="what">Butter</div>
+    </div>
+    <div class="hold-card">
+      <span class="hold-slip">ON HOLD</span>
+      <div class="who">GROSSMAN, Vasily.</div>
+      <div class="what">Stalingrad</div>
+    </div>
+  </div>
+
+  <div class="section-label">READING HISTORY</div>
+  <div id="drawer"></div>
+
+  <footer>
+    <hr class="foot-rule">
+    <p>v1 of this site was built with Replit and ChatGPT in 2024.<br>
+    v2 was rebuilt with Claude in 2026.<br>
+    I love snooping through people's bookshelves — now you can snoop through mine.</p>
+    <p>© 2026 La Biblioteca de Nicholas · <a href="https://nicholasoconnor.com">nicholasoconnor.com</a></p>
+  </footer>
+
+</div>
+
+<script>
+const YEARS = [
+  { y: 2026, books: [
+    ["BALLE, Solvej", "On the Calculation of Volume (Book 1)", "EN"],
+    ["BALLE, Solvej", "On the Calculation of Volume (Book 2)", "EN"],
+    ["HOBB, Robin", "Assassin's Apprentice", "EN"],
+    ["HOBB, Robin", "Royal Assassin", "EN"],
+    ["HOBB, Robin", "Assassin's Quest", "EN"],
+    ["HOBB, Robin", "Ship of Magic", "EN"],
+    ["HOBB, Robin", "The Mad Ship", "EN"],
+    ["HOBB, Robin", "Ship of Destiny", "EN"],
+    ["GRANDES, Almudena", "Malena es un nombre de tango", "ES"],
+    ["BALLE, Solvej", "On the Calculation of Volume (Book 3)", "EN"],
+    ["COREY, James S. A.", "The Faith of Beasts", "EN"]
+  ]},
+  { y: 2025, books: [
+    ["MAR\u00CDAS, Javier", "Coraz\u00F3n tan blanco", "ES"],
+    ["HOUELLEBECQ, Michel", "Whatever", "EN"],
+    ["ROBB, Graham", "Rimbaud", "EN"],
+    ["HAN, Kang", "The Vegetarian", "EN"],
+    ["LISPECTOR, Clarice", "A Paix\u00E3o Segundo G.H.", "PT"],
+    ["BUZZATI, Dino", "The Stronghold", "EN"],
+    ["HOUELLEBECQ, Michel", "Annihilation", "EN"],
+    ["MISHIMA, Yukio", "Confessions of a Mask", "EN"],
+    ["WYNN-WILLIAMS, Sarah", "Careless People", "EN"],
+    ["CARTER, Graydon", "When the Going was Good", "EN"],
+    ["MAR\u00CDAS, Javier", "Berta Isla", "ES"],
+    ["JENNINGS, Gary", "Aztec", "EN"],
+    ["SZALAY, David", "Flesh", "EN"],
+    ["VANDERMEER, Jeff", "Borne", "EN"],
+    ["JAMES, P. D.", "The Children of Men", "EN"],
+    ["DURBIN, Frederic S.", "The Country Under Heaven", "EN"],
+    ["HOUELLEBECQ, Michel", "The Elementary Particles", "EN"],
+    ["SZALAY, David", "Turbulence", "EN"],
+    ["HOUELLEBECQ, Michel", "The Map and the Territory", "EN"]
+  ]},
+  { y: 2024, books: [
+    ["COREY, James S. A.", "The Mercy of Gods", "EN"],
+    ["VANDERMEER, Jeff", "Acceptance", "EN"],
+    ["VANDERMEER, Jeff", "Annihilation", "EN"],
+    ["VANDERMEER, Jeff", "Absolution", "EN"],
+    ["VANDERMEER, Jeff", "Authority", "EN"],
+    ["KNAUSGAARD, Karl Ove", "My Struggle", "EN"],
+    ["MATHESON, Richard", "I Am Legend", "EN"],
+    ["McCARTHY, Cormac", "Cities of the Plain", "EN"]
+  ]},
+  { y: 2023, books: [
+    ["MURAKAMI, Haruki", "Hear the Wind Sing", "EN"],
+    ["MURAKAMI, Haruki", "After the Quake", "EN"],
+    ["URIS, Leon", "The Haj", "EN"],
+    ["ZAMBRA, Alejandro", "Poeta Chileno", "ES"],
+    ["JIM\u00C9NEZ, David", "El Director", "ES"],
+    ["HSU, Hua", "Stay True", "EN"],
+    ["McCARTHY, Cormac", "Blood Meridian", "EN"],
+    ["GALERA, Daniel", "Barba Ensopada de Sangue", "PT"],
+    ["KUANG, R. F.", "Babel", "EN"],
+    ["McCARTHY, Cormac", "The Road", "EN"],
+    ["CALLIGARICH, Gianfranco", "Last Summer in the City", "EN"],
+    ["CRICHTON, Michael", "Eaters of the Dead", "EN"],
+    ["MACARI, Mirko", "Se\u00F1or Director", "ES"],
+    ["McCARTHY, Cormac", "All the Pretty Horses", "EN"],
+    ["DOLAN, Naoise", "Exciting Times", "EN"],
+    ["GRANN, David", "Killers of the Flower Moon", "EN"],
+    ["CHIANG, Ted", "Tower of Babylon", "EN"],
+    ["DIAZ, Hernan", "Trust", "EN"],
+    ["SALTER, James", "A Sport and a Pastime", "EN"],
+    ["McCARTHY, Cormac", "The Crossing", "EN"],
+    ["CLAVELL, James", "Whirlwind", "EN"],
+    ["LABATUT, Benjam\u00EDn", "The Maniac", "EN"],
+    ["SHIPNUCK, Alan", "Phil", "EN"]
+  ]},
+  { y: 2022, books: [
+    ["HESSE, Hermann", "Siddhartha", "EN"],
+    ["SALTER, James", "Light Years", "EN"],
+    ["WEIR, Andy", "Project Hail Mary", "EN"],
+    ["LABATUT, Benjam\u00EDn", "Un verdor terrible", "ES"],
+    ["SALTER, James", "The Hunters", "EN"],
+    ["CLAVELL, James", "King Rat", "EN"],
+    ["MANDEL, Emily St. John", "Station Eleven", "EN"],
+    ["THUBRON, Colin", "The Amur River: Between Russia and China", "EN"],
+    ["ITAMI, Emily", "Fault Lines", "EN"],
+    ["MURAKAMI, Haruki", "Men Without Women", "EN"],
+    ["LE GUIN, Ursula K.", "The Lathe of Heaven", "EN"],
+    ["FUENTES, Carlos", "Aura", "ES"],
+    ["PACHECO, Jos\u00E9 Emilio", "Las batallas en el desierto", "ES"],
+    ["JOHNSON, Denis", "Train Dreams", "EN"],
+    ["AGUST\u00CDN, Jos\u00E9", "La Tumba", "ES"],
+    ["McMURTRY, Larry", "Lonesome Dove", "EN"],
+    ["MANDEL, Emily St. John", "Sea of Tranquility", "EN"],
+    ["CLAVELL, James", "Noble House", "EN"],
+    ["MAIRAL, Pedro", "La Uruguaya", "ES"],
+    ["McMURTRY, Larry", "Streets of Laredo", "EN"],
+    ["LEVIN, Ira", "The Boys from Brazil", "EN"],
+    ["O'TOOLE, Fintan", "We Don't Know Ourselves", "EN"],
+    ["UPDIKE, John", "Golf Dreams", "EN"],
+    ["ROBERTS, Gregory David", "Shantaram", "EN"],
+    ["ADELSTEIN, Jake", "Tokyo Vice", "EN"],
+    ["MURATA, Sayaka", "Convenience Store Woman", "EN"],
+    ["YU, Miri", "Tokyo Ueno Station", "EN"],
+    ["MISHIMA, Yukio", "The Sailor Who Fell from Grace with the Sea", "EN"]
+  ]}
+];
+
+const langWord = { EN: "English", ES: "Spanish", PT: "Portuguese" };
+
+const drawer = document.getElementById("drawer");
+
+YEARS.forEach(({ y, books }, yi) => {
+  const open = yi < 2;
+  const block = document.createElement("div");
+  block.className = "year-block";
+  block.innerHTML =
+    '<div class="year-tab-row" role="button" tabindex="0" aria-expanded="' + open + '">' +
+    '<div class="year-tab"><span class="year-caret">' + (open ? "\u25BE" : "\u25B8") + "</span>" +
+    y + " \u2014 " + books.length +
+    ' BOOKS</div><div class="year-bar"></div></div>';
+  const list = document.createElement("div");
+  list.className = "year-list" + (open ? "" : " closed");
+  books.forEach((b, i) => {
+    const edge = document.createElement("div");
+    edge.className = "edge";
+    edge.setAttribute("role", "button");
+    edge.setAttribute("tabindex", "0");
+    edge.setAttribute("aria-expanded", "false");
+    edge.innerHTML =
+      '<span class="who">' + b[0] + "</span>" +
+      '<span class="what">\u2014 ' + b[1] + "</span>" +
+      '<span class="lang">' + b[2] + "</span>";
+    edge.addEventListener("click", () => toggle(edge, b, y, i));
+    edge.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" || e.key === " ") { e.preventDefault(); toggle(edge, b, y, i); }
+    });
+    list.appendChild(edge);
+  });
+  block.appendChild(list);
+  const tabRow = block.querySelector(".year-tab-row");
+  const caret = block.querySelector(".year-caret");
+  function toggleYear() {
+    const closed = list.classList.toggle("closed");
+    caret.textContent = closed ? "\u25B8" : "\u25BE";
+    tabRow.setAttribute("aria-expanded", String(!closed));
+  }
+  tabRow.addEventListener("click", toggleYear);
+  tabRow.addEventListener("keydown", (e) => {
+    if (e.key === "Enter" || e.key === " ") { e.preventDefault(); toggleYear(); }
+  });
+  drawer.appendChild(block);
+});
+
+let openCard = null;
+
+function toggle(edge, b, y, i) {
+  if (openCard) { openCard.replaceWith(openCard._edge); openCard = null; }
+  if (edge._wasOpen) { edge._wasOpen = false; return; }
+  document.querySelectorAll(".edge").forEach(e => e._wasOpen = false);
+
+  const acc = y + "-" + String(i + 1).padStart(2, "0");
+  const card = document.createElement("div");
+  card.className = "pulled";
+  card.setAttribute("role", "button");
+  card.setAttribute("tabindex", "0");
+  card.setAttribute("aria-expanded", "true");
+  card.innerHTML =
+    '<div class="card-head"><span style="font-size:15px;">' + b[0] + "</span>" +
+    '<span class="acc-no">\u2116 ' + acc + "</span></div>" +
+    '<div class="red-rule"></div>' +
+    '<div class="entry">' + b[1] + ".</div>" +
+    '<div class="meta">language: ' + langWord[b[2]] + " \u00B7 filed: " + y + "</div>" +
+    '<div class="stamp-pill read-stamp">READ \u2713</div>' +
+    '<div class="hole"></div>';
+  card._edge = edge;
+  card.addEventListener("click", () => { card.replaceWith(edge); openCard = null; });
+  edge._wasOpen = true;
+  edge.replaceWith(card);
+  openCard = card;
+  card.focus();
+}
+</script>
+</body>
+</html>

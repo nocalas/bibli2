@@ -1,0 +1,33 @@
+{
+  "_comment": "Manual corrections applied at build time. 'authors' maps the author exactly as typed in the Sheet to the catalog form shown on cards. 'languages' maps a book title (as in the Sheet, trimmed) to the language it was read in, when it can't be derived from the Wikipedia link domain. 'titles' fixes typos/formatting for display without editing the Sheet. 'imprints' adds the catalog imprint line on the Now Reading card when known.",
+  "authors": {
+    "David Sazalay": "SZALAY, David",
+    "Yu Miri": "YU, Miri",
+    "Miri Yu": "YU, Miri",
+    "Han Kang": "HAN, Kang",
+    "Ursula Le Guin": "LE GUIN, Ursula K.",
+    "Benjamin Labatut": "LABATUT, Benjamín",
+    "David Jimenez": "JIMÉNEZ, David",
+    "James S.A. Corey": "COREY, James S. A.",
+    "James S Corey": "COREY, James S. A.",
+    "R.F Kuang": "KUANG, R. F.",
+    "P.D. James": "JAMES, P. D.",
+    "Frederic S Durbin": "DURBIN, Frederic S."
+  },
+  "languages": {
+    "Corazón tan blanco": "ES",
+    "Un verdor terrible": "ES",
+    "Aura": "ES",
+    "Las batallas en el desierto": "ES",
+    "A Paixão Segundo G.H.": "PT"
+  },
+  "titles": {
+    "The Mercy of the Gods": "The Mercy of Gods",
+    "I am Legend": "I Am Legend",
+    "Men Without Women (Short story collection)": "Men Without Women",
+    "On the Calculation of Volume Book 3": "On the Calculation of Volume (Book 3)"
+  },
+  "imprints": {
+    "I Regret Almost Everything": "I regret almost everything. — New York : Gallery Books, 2025. — memoir."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "biblioteca-de-nicholas",
+  "version": "2.0.0",
+  "private": true,
+  "description": "La Biblioteca de Nicholas — static reading tracker built from Google Sheets",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "build:offline": "node scripts/build.mjs --no-fetch",
+    "enrich": "node scripts/build.mjs --enrich-only"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

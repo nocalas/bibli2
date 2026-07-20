@@ -1,0 +1,9 @@
+{
+  "siteUrl": "https://bibli.nicholasoconnor.com",
+  "sheets": {
+    "history": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSkOBZ1wmJEr9g7yeUOTaQtlZsLS6uE7EJmGbASnsZCklQXiguBAoIWubI-DX60vMLT1er1fTDIQhdV/pub?output=csv",
+    "reading": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS9hd9zeBZsT1gkXIyxwI31usGTJA1CmO0cu5SoNZ5zAXHhB6VYlnt_hZkMV4GEs4zghScd5XrbcMQc/pub?output=csv",
+    "next": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRQvQThwkZ9omH6rfvrom9AmaSUHE7Cf7uiwY97pSh6JBCsPqef073SUethxqfKzbNzqso8Uji3x5_v/pub?output=csv"
+  },
+  "firstYear": 2022
+}
