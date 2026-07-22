@@ -1747,5 +1747,40 @@
     "source": null,
     "confident": false,
     "fetchedAt": "2026-07-19"
+  },
+  "ultramarine|mariette navarro": {
+    "source": "openlibrary",
+    "canonicalTitle": "Ultramarine",
+    "canonicalAuthor": "Mariette Navarro",
+    "firstPublishYear": 2025,
+    "pages": 250,
+    "link": "https://openlibrary.org/works/OL42428662W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/14853052-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-22",
+    "coverFile": "ultramarine.jpg"
+  },
+  "the strange last voyage of donald crowhurst|nicholas tomalin": {
+    "source": "openlibrary",
+    "canonicalTitle": "The strange last voyage of Donald Crowhurst",
+    "canonicalAuthor": "Nicholas Tomalin",
+    "firstPublishYear": 1970,
+    "pages": 317,
+    "link": "https://openlibrary.org/works/OL3739066W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/1075216-L.jpg",
+    "originalLanguages": [
+      "ger",
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-07-22",
+    "coverFile": "the-strange-last-voyage-of-donald-crowhurst.jpg"
   }
 }
