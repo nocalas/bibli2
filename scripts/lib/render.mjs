@@ -161,7 +161,13 @@ export function renderSite({ config, stats, lead, next, years, buildYear }) {
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Special+Elite&family=Courier+Prime:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
-</head>
+${
+  config.umami?.websiteId
+    ? `<script defer src="${esc(config.umami.src)}" data-website-id="${esc(
+        config.umami.websiteId
+      )}"></script>\n`
+    : ""
+}</head>
 <body>
 <div class="col">
 

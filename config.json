@@ -5,5 +5,9 @@
     "reading": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS9hd9zeBZsT1gkXIyxwI31usGTJA1CmO0cu5SoNZ5zAXHhB6VYlnt_hZkMV4GEs4zghScd5XrbcMQc/pub?output=csv",
     "next": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRQvQThwkZ9omH6rfvrom9AmaSUHE7Cf7uiwY97pSh6JBCsPqef073SUethxqfKzbNzqso8Uji3x5_v/pub?output=csv"
   },
-  "firstYear": 2022
+  "firstYear": 2022,
+  "umami": {
+    "src": "https://cloud.umami.is/script.js",
+    "websiteId": "09262f91-3c15-49c2-964e-320115e78b07"
+  }
 }
