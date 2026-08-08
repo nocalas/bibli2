@@ -1782,5 +1782,22 @@
     "confident": true,
     "fetchedAt": "2026-07-22",
     "coverFile": "the-strange-last-voyage-of-donald-crowhurst.jpg"
+  },
+  "fool's errand|robin hobb": {
+    "source": "openlibrary",
+    "canonicalTitle": "Fool's Errand",
+    "canonicalAuthor": "Robin Hobb",
+    "firstPublishYear": 2015,
+    "pages": 768,
+    "link": "https://openlibrary.org/works/OL17320338W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/13556499-L.jpg",
+    "originalLanguages": [
+      "spa"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-08-08",
+    "coverFile": "fool-s-errand.jpg"
   }
 }
