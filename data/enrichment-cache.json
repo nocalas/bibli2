@@ -1799,5 +1799,58 @@
     "confident": true,
     "fetchedAt": "2026-08-08",
     "coverFile": "fool-s-errand.jpg"
+  },
+  "bright lights big city|jay mc inerney": {
+    "source": "openlibrary",
+    "canonicalTitle": "Bright lights, big city",
+    "canonicalAuthor": "Jay McInerney",
+    "firstPublishYear": 1984,
+    "pages": 192,
+    "link": "https://openlibrary.org/works/OL1917713W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/254247-L.jpg",
+    "originalLanguages": [
+      "eng",
+      "spa"
+    ],
+    "titleSim": 1,
+    "authorSim": 0.88,
+    "confident": true,
+    "fetchedAt": "2026-08-29",
+    "coverFile": "bright-lights-big-city.jpg"
+  },
+  "the golden fool|robin hobb": {
+    "source": "openlibrary",
+    "canonicalTitle": "Golden Fool (The Tawny Man, Book 2)",
+    "canonicalAuthor": "Robin Hobb",
+    "firstPublishYear": 2002,
+    "pages": 640,
+    "link": "https://openlibrary.org/works/OL2707197W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/373091-L.jpg",
+    "originalLanguages": [
+      "eng",
+      "spa"
+    ],
+    "titleSim": 0.578,
+    "authorSim": 1,
+    "confident": false,
+    "fetchedAt": "2026-08-29",
+    "coverFile": "the-golden-fool.jpg"
+  },
+  "fool's fate|robin hobb": {
+    "source": "openlibrary",
+    "canonicalTitle": "Fool's Fate",
+    "canonicalAuthor": "Robin Hobb",
+    "firstPublishYear": 2003,
+    "pages": 805,
+    "link": "https://openlibrary.org/works/OL2707195W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/374007-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-08-29",
+    "coverFile": "fool-s-fate.jpg"
   }
 }
