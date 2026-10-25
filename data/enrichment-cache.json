@@ -1852,5 +1852,22 @@
     "confident": true,
     "fetchedAt": "2026-08-29",
     "coverFile": "fool-s-fate.jpg"
+  },
+  "on the calculation of volume iv|solvej balle": {
+    "source": "openlibrary",
+    "canonicalTitle": "On the Calculation of Volume IV",
+    "canonicalAuthor": "Solvej Balle",
+    "firstPublishYear": 2026,
+    "pages": 171,
+    "link": "https://openlibrary.org/works/OL45394280W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/15227448-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-10-25",
+    "coverFile": "on-the-calculation-of-volume-iv.jpg"
   }
 }
