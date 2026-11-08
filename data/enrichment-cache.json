@@ -1869,5 +1869,97 @@
     "confident": true,
     "fetchedAt": "2026-10-25",
     "coverFile": "on-the-calculation-of-volume-iv.jpg"
+  },
+  "vineland|thomas pynchon": {
+    "source": "openlibrary",
+    "canonicalTitle": "Vineland",
+    "canonicalAuthor": "Thomas Pynchon",
+    "firstPublishYear": 1990,
+    "pages": 385,
+    "link": "https://openlibrary.org/works/OL2636662W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/5273728-L.jpg",
+    "originalLanguages": [
+      "eng",
+      "ger",
+      "spa"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-11-08",
+    "coverFile": "vineland.jpg"
+  },
+  "on the calculation of volume book 4|solvej balle": {
+    "source": null,
+    "confident": false,
+    "fetchedAt": "2026-11-08"
+  },
+  "dragon keeper|robin hobb": {
+    "source": "openlibrary",
+    "canonicalTitle": "Dragon keeper",
+    "canonicalAuthor": "Robin Hobb",
+    "firstPublishYear": 2009,
+    "pages": 560,
+    "link": "https://openlibrary.org/works/OL2707193W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/8113171-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-11-08",
+    "coverFile": "dragon-keeper.jpg"
+  },
+  "dragon haven|robin hobb": {
+    "source": "openlibrary",
+    "canonicalTitle": "Dragon Haven",
+    "canonicalAuthor": "Robin Hobb",
+    "firstPublishYear": 2010,
+    "pages": 570,
+    "link": "https://openlibrary.org/works/OL14962810W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/6298448-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-11-08",
+    "coverFile": "dragon-haven.jpg"
+  },
+  "city of dragons|robin hobb": {
+    "source": "openlibrary",
+    "canonicalTitle": "City of dragons",
+    "canonicalAuthor": "Robin Hobb",
+    "firstPublishYear": 2012,
+    "pages": 375,
+    "link": "https://openlibrary.org/works/OL16442335W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/7254797-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 1,
+    "authorSim": 1,
+    "confident": true,
+    "fetchedAt": "2026-11-08",
+    "coverFile": "city-of-dragons.jpg"
+  },
+  "dragon blood|robin hobb": {
+    "source": "openlibrary",
+    "canonicalTitle": "Blood of Dragons",
+    "canonicalAuthor": "Robin Hobb",
+    "firstPublishYear": 2013,
+    "pages": 481,
+    "link": "https://openlibrary.org/works/OL16870598W",
+    "coverUrl": "https://covers.openlibrary.org/b/id/7284727-L.jpg",
+    "originalLanguages": [
+      "eng"
+    ],
+    "titleSim": 0.692,
+    "authorSim": 1,
+    "confident": false,
+    "fetchedAt": "2026-11-08",
+    "coverFile": "dragon-blood.jpg"
   }
 }
